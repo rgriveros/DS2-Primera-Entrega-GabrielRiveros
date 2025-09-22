@@ -20,7 +20,6 @@ Este repositorio contiene el notebook de la **Primera Entrega** del curso Data S
 ## Contenido
 
 - **DS2_Primera-Entrega.ipynb** – Notebook completo con todos los pasos  
-- **requirements.txt** – Lista de librerías Python necesarias  
 - **README.md** – Documentación del proyecto
 
 ---
